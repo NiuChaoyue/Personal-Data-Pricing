@@ -1,7 +1,7 @@
-**Source code for our manuscript:**
+**Information about our manuscript:**
 
->Chaoyue Niu, Zhenzhe Zheng, Shaojie Tang, Fan Wu, and Guihai Chen, Trading Personal Data Online for Revenue Maximization: A Contextual Dynamic Pricing with Reserve Price Perspective, submitted to the 45th International Conference on Very Large Data Bases (VLDB), 2019.
+>Chaoyue Niu, Zhenzhe Zheng, Shaojie Tang, Fan Wu, and Guihai Chen, Online Pricing for Personal Data Markets, submitted to the 36th IEEE International Conference on Data Engineering (IEEE ICDE), 2020.
 
 **Keywords:**
 
->Contextual Dynamic pricing; Reserve Price Constraint; Online Personal Data Markets; Hospitality Service; Online Advertising.
+>Contextual Dynamic pricing; Reserve Price; Revenue Maximization; Personal Data Markets; Hospitality Service; Online Advertising.
