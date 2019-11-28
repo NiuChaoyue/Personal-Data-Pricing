@@ -1,6 +1,6 @@
 **Information about our manuscript:**
 
->Chaoyue Niu, Zhenzhe Zheng, Shaojie Tang, Fan Wu, and Guihai Chen, Online Pricing for Personal Data Markets, submitted to the 36th IEEE International Conference on Data Engineering (IEEE ICDE), 2020.
+>Chaoyue Niu, Zhenzhe Zheng, Shaojie Tang, Fan Wu, and Guihai Chen, Online Pricing for Personal Data Markets, to appear in Proceedings of the 36th IEEE International Conference on Data Engineering (IEEE ICDE), 2020.
 
 **Keywords:**
 
